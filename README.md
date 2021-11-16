@@ -1,4 +1,4 @@
-# Project-3
+# Project-3 Github
 This is the Project 3 of the course
 
 Post your Work on GitHub
@@ -15,4 +15,4 @@ Files
 The following file contains necessary commands used to do tasks:
 Git Commands Documentation.pdf
 The following files helps to understand the Git key terms:
-Git-KeyTerms.pdf
+Git Course KeyTerms.pdf
