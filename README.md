@@ -10,7 +10,8 @@ In this project, you'll be simulating a realistic workflow to refactor your prev
 List of software, firmware and hardware you may require.
 Installing GIT tool : https://git-scm.com/downloads.
 
-Files 
+Files
+
 
 The following file contains necessary commands used to do tasks:
 Git Commands Documentation.pdf
